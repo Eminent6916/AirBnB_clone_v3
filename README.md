@@ -153,7 +153,10 @@ EOF  all  create  destroy  help  quit  show  update
 ## Bugs
 No known bugs at this time. 
 
-## Author
-Ologunde Elisha - [Github](https://github.com/Eminent6916) / [Linkedin](https://www.linkedin.com/in/elisha-e6916/)
+## Authors
+Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
+Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
+Ologunde Elisha -[Github](https://github.com/Eminent6916) 
+
 ## License
 Public Domain. No copy write protection. 
